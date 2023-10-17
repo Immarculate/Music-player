@@ -10,10 +10,10 @@ const Music = () => {
   // const { id } = useParams();
 
 
-  const tokenUrl = 'https://accounts.spotify.com/api/token';
-  const playlistsUrl = 'https://api.spotify.com/v1/playlists/37i9dQZF1DXbTop77dnX35/tracks';
-  var client_id = 'cebd6af3bb2a4a239efc5b8be7ba8a58';
-  var client_secret = 'ea34110380aa47ad9ea6567724a00db3';
+  // const tokenUrl = 'https://accounts.spotify.com/api/token';
+  // const playlistsUrl = 'https://api.spotify.com/v1/playlists/37i9dQZF1DXbTop77dnX35/tracks';
+  // var client_id = 'cebd6af3bb2a4a239efc5b8be7ba8a58';
+  // var client_secret = 'ea34110380aa47ad9ea6567724a00db3';
   
 
  useEffect(() => {
